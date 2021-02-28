@@ -1,8 +1,11 @@
-package community.community;
+package community;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+/**
+ * @author yan
+ */
 @SpringBootApplication
 public class CommunityApplication {
 
